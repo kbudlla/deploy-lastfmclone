@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/deploy-lastfmclone/static/css/main.e64db05f.chunk.css",
-    "main.js": "/deploy-lastfmclone/static/js/main.413a30ae.chunk.js",
-    "main.js.map": "/deploy-lastfmclone/static/js/main.413a30ae.chunk.js.map",
+    "main.js": "/deploy-lastfmclone/static/js/main.145b6639.chunk.js",
+    "main.js.map": "/deploy-lastfmclone/static/js/main.145b6639.chunk.js.map",
     "runtime~main.js": "/deploy-lastfmclone/static/js/runtime~main.94dfe1a7.js",
     "runtime~main.js.map": "/deploy-lastfmclone/static/js/runtime~main.94dfe1a7.js.map",
     "static/css/2.266952b4.chunk.css": "/deploy-lastfmclone/static/css/2.266952b4.chunk.css",
     "static/js/2.5b5d0236.chunk.js": "/deploy-lastfmclone/static/js/2.5b5d0236.chunk.js",
     "static/js/2.5b5d0236.chunk.js.map": "/deploy-lastfmclone/static/js/2.5b5d0236.chunk.js.map",
     "index.html": "/deploy-lastfmclone/index.html",
-    "precache-manifest.efdcc0633869e22d0e1edd4045ac5642.js": "/deploy-lastfmclone/precache-manifest.efdcc0633869e22d0e1edd4045ac5642.js",
+    "precache-manifest.9ab9d254d542d616d47362af9de05f7d.js": "/deploy-lastfmclone/precache-manifest.9ab9d254d542d616d47362af9de05f7d.js",
     "service-worker.js": "/deploy-lastfmclone/service-worker.js",
     "static/css/2.266952b4.chunk.css.map": "/deploy-lastfmclone/static/css/2.266952b4.chunk.css.map",
     "static/css/main.e64db05f.chunk.css.map": "/deploy-lastfmclone/static/css/main.e64db05f.chunk.css.map"
