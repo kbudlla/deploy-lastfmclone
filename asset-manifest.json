@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/deploy-lastfmclone/static/css/main.01c76a8d.chunk.css",
-    "main.js": "/deploy-lastfmclone/static/js/main.bad32908.chunk.js",
-    "main.js.map": "/deploy-lastfmclone/static/js/main.bad32908.chunk.js.map",
+    "main.css": "/deploy-lastfmclone/static/css/main.06597038.chunk.css",
+    "main.js": "/deploy-lastfmclone/static/js/main.fe75887b.chunk.js",
+    "main.js.map": "/deploy-lastfmclone/static/js/main.fe75887b.chunk.js.map",
     "runtime~main.js": "/deploy-lastfmclone/static/js/runtime~main.94dfe1a7.js",
     "runtime~main.js.map": "/deploy-lastfmclone/static/js/runtime~main.94dfe1a7.js.map",
-    "static/css/2.87619ade.chunk.css": "/deploy-lastfmclone/static/css/2.87619ade.chunk.css",
-    "static/js/2.87d546af.chunk.js": "/deploy-lastfmclone/static/js/2.87d546af.chunk.js",
-    "static/js/2.87d546af.chunk.js.map": "/deploy-lastfmclone/static/js/2.87d546af.chunk.js.map",
+    "static/css/2.3667796c.chunk.css": "/deploy-lastfmclone/static/css/2.3667796c.chunk.css",
+    "static/js/2.9ea2c700.chunk.js": "/deploy-lastfmclone/static/js/2.9ea2c700.chunk.js",
+    "static/js/2.9ea2c700.chunk.js.map": "/deploy-lastfmclone/static/js/2.9ea2c700.chunk.js.map",
     "index.html": "/deploy-lastfmclone/index.html",
-    "precache-manifest.d61428d5815093c38331ada89987f342.js": "/deploy-lastfmclone/precache-manifest.d61428d5815093c38331ada89987f342.js",
+    "precache-manifest.8e3b007bc9b16abcc026e6a64721c045.js": "/deploy-lastfmclone/precache-manifest.8e3b007bc9b16abcc026e6a64721c045.js",
     "service-worker.js": "/deploy-lastfmclone/service-worker.js",
-    "static/css/2.87619ade.chunk.css.map": "/deploy-lastfmclone/static/css/2.87619ade.chunk.css.map",
-    "static/css/main.01c76a8d.chunk.css.map": "/deploy-lastfmclone/static/css/main.01c76a8d.chunk.css.map"
+    "static/css/2.3667796c.chunk.css.map": "/deploy-lastfmclone/static/css/2.3667796c.chunk.css.map",
+    "static/css/main.06597038.chunk.css.map": "/deploy-lastfmclone/static/css/main.06597038.chunk.css.map"
   }
 }
