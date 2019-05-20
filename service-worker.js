@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/deploy-lastfmclone/precache-manifest.a295275f007d4bc930a01a68398518c7.js"
+  "/deploy-lastfmclone/precache-manifest.86fd3c27260b2c70a1a6d958a8f0fad5.js"
 );
 
 self.addEventListener('message', (event) => {
